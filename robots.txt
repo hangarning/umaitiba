@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phangetal.capstone-engine.org/sitemap.xml
